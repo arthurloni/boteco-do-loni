@@ -6,8 +6,8 @@ export default function App() {
 
   const confirmarPresenca = () => {
     if (nome.trim() !== "") {
-      setConvidados([...convidados, nome]);
-      setNome("");
+        setConvidados([...convidados, nome]);
+        setNome("");
     }
   };
 
