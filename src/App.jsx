@@ -16,8 +16,8 @@ export default function App() {
       <div className="bg-white p-6 rounded-2xl shadow-xl text-center max-w-lg w-full">
         <h1 className="text-3xl font-bold text-red-600">🍻 Boteco do Loni 🍻</h1>
         <p className="text-lg mt-2">Você está convidado para o aniversário!</p>
-        <p className="mt-1 font-semibold">📅 Dia 15/03 às 18:00 horas</p>
-        <p className="mt-2 text-sm text-gray-700">Traga carne e o que for beber! 🍖🍻</p>
+        <p className="mt-1 font-semibold">Dia 15/03 às 18:00 horas</p>
+        <p className="mt-2 text-sm text-gray-700">Traga carne e o que for beber!</p>
         
         <div className="mt-4">
           <input
